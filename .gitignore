@@ -14,6 +14,7 @@ docs/
 lib/
 
 # Dotenv file
+coverage.log
 .env
 .gas-snapshot
 .prettierignore
@@ -23,3 +24,5 @@ inspect_storage.log
 lcov.info
 .keystore
 remappings.txt
+Makefile
+settings.json
