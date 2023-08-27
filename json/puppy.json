@@ -1,0 +1,11 @@
+{
+    "name": "St-Bernard",
+    "description": "It pees everywhere.",
+    "image": "https://ipfs.io/ipfs/QmUPjADFGEKmfohdTaNcWhp7VGk26h5jXDA7v3VtTnTLcW?filename=st-bernard.png",
+    "attributes": [
+        {
+            "trait_type": "Pee Pool",
+            "value": "Large"
+        }
+    ]
+}
